@@ -1,0 +1,24 @@
+{
+  "name": "elite-dol-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "elite-dol-data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zanaqvi/elite-dol-data.git"
+  },
+  "author": "Syed Naqvi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zanaqvi/elite-dol-data/issues"
+  },
+  "homepage": "https://github.com/zanaqvi/elite-dol-data#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-basic-auth": "^1.1.5",
+    "pg": "^7.4.3"
+  }
+}
